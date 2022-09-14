@@ -21,7 +21,7 @@ LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagra
 ## Hotspot
 
 ### Text
-HotspotPanoramaOverlayTextImage_200FF0C4_3C72_4C76_41B8_B83FEDC77F36.text = R. 9 de Março, 398 \
+HotspotPanoramaOverlayTextImage_237C00E7_3C4E_CC31_41CE_9CBA3394F805.text = R. 9 de Março, 398 \
 
 
 ## Media
@@ -38,7 +38,7 @@ audiores_21A269FB_3C4D_FC12_41BF_1EA5EA1FC0E4.mp3Url = media/audio_279FB107_3C76
 audiores_21A269FB_3C4D_FC12_41BF_1EA5EA1FC0E4.oggUrl = media/audio_279FB107_3C76_CDF1_41C8_AD3A7ED3008B_pt.ogg
 
 ### Image
-imlevel_21950B6A_3C4E_DC32_41B4_F45E92AE6427.url = media/panorama_36618855_3C36_DC11_4191_D380C1F3D9B9_HS_l4vbk2de_pt.png
+imlevel_229F4997_3C72_3C11_41AF_C72607895F5C.url = media/panorama_22C25681_3C4E_54F1_41AC_1F1843333A3C_HS_i8hl8l1g_pt.png
 
 ### Title
 panorama_364E5B9D_3C35_FC11_41B8_542B4711E0F1.label = 1-DeNoiseAI-standard
@@ -54,7 +54,7 @@ panorama_36608781_3C36_54EE_41C9_9D7B039A21B0.label = 5-DeNoiseAI-standard
 panorama_36616154_3C36_4C17_41CC_F31801DF0312.label = 6-DeNoiseAI-standard
 panorama_3660FA85_3C36_7CF6_41C8_7C8A7CA83650.label = 7-DeNoiseAI-standard
 panorama_3660DCC9_3C36_5471_41A0_386DB6EC14FF.label = 9-DeNoiseAI-standard
-panorama_36618855_3C36_DC11_4191_D380C1F3D9B9.label = aerea-DeNoiseAI-standard
+panorama_22C25681_3C4E_54F1_41AC_1F1843333A3C.label = aerea-DeNoiseAI-standard 2
 
 ## Skin
 
