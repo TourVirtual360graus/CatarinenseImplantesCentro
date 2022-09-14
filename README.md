@@ -1,2 +1,2 @@
 # CatarinenseImplantesCentro
- Tour 30 Graus Catarinense Implantes
+ Tour 360 Graus Catarinense Implantes
